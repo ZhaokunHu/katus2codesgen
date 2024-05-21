@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ipxact:designConfiguration xsi:schemaLocation="http://www.accellera.org/XMLSchema/IPXACT/1685-2022 http://www.accellera.org/XMLSchema/IPXACT/1685-2022/index.xsd" xmlns:kactus2="http://kactus2.cs.tut.fi" xmlns:ipxact="http://www.accellera.org/XMLSchema/IPXACT/1685-2022" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <ipxact:vendor>HWDesign</ipxact:vendor>
+      <ipxact:library>flat</ipxact:library>
+      <ipxact:name>Dsign1.designcfg</ipxact:name>
+      <ipxact:version>1.0</ipxact:version>
+      <ipxact:designRef vendor="HWDesign" library="flat" name="Dsign1.design" version="1.0"/>
+      <ipxact:vendorExtensions>
+      <kactus2:version>3,13,2,0</kactus2:version>
+      <kactus2:kts_attributes>
+      <kactus2:kts_implementation>HW</kactus2:kts_implementation>
+    </kactus2:kts_attributes>
+    </ipxact:vendorExtensions>
+    </ipxact:designConfiguration>
